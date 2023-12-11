@@ -130,7 +130,7 @@ URL=" + kExportDocumentationUrl;
             if (Config.IsExperimental)
             {
                 progress.SetWork("wrl");
-                progress.SetWork("stl");;
+                progress.SetWork("stl");;;
 #if FBX_SUPPORTED
       progress.SetWork("obj");
 #endif
